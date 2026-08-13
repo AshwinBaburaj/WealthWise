@@ -16,10 +16,6 @@ A responsive web application for exploring and investing in mutual funds, featur
 - **Backend:** PHP
 - **Database:** SQL
 
-## Screenshots
-
-*(Add screenshots of the login page, dashboard, and fund listing pages here)*
-
 ## Getting Started
 
 1. Clone or download this repository
